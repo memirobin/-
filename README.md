@@ -3,15 +3,15 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>我的可视化图展示</title>
+    <title>b站“西湖”搜索结果第一页信息可视化</title>
   </head>
   <body>
     <h1>b站“西湖”搜索结果第一页信息可视化</h1>
 
-    <h2>图表一</h2>
+    <h2>关键词词云</h2>
     <img src="关键词词云.png" alt="关键词词云" width="600">
 
-    <h2>图表二</h2>
+    <h2>关键词网络</h2>
     <img src="关键词网络.png" alt="关键词网络" width="600">
   </body>
 </html>
