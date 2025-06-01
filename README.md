@@ -1,1 +1,17 @@
 # westlake-search-result
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>我的可视化图展示</title>
+  </head>
+  <body>
+    <h1>图表展示页面</h1>
+
+    <h2>图表一</h2>
+    <img src="关键词词云.png" alt="图表1" width="600">
+
+    <h2>图表二</h2>
+    <img src="关键词网络.png" alt="图表2" width="600">
+  </body>
+</html>
